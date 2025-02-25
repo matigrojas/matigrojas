@@ -1,6 +1,3 @@
->[!TIP]
->Brand new approach to molecule discovery in this repository.
-
 - 👋 Hi, I’m @matigrojas, I'm from Posadas, Misiones, Argentina, but now I'm living in Mendoza, Argentina. 
 I'm currently doing my doctorate in science and technology in the Cuyo National University.
 - 👀 I’m interested in bioinformatics algorithms and the applications of machine learning techniques to the bioninformatic field.
